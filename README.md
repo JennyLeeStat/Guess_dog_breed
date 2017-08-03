@@ -7,7 +7,7 @@ If supplied an image of a human, the code will identify the resembling dog breed
 To run the code, run the following on the terminal. 
 
 ```
-python dog_app.py --img path_to_img.jpg
+python dog_app.py --image path_to_img.jpg
 ```
 
 
