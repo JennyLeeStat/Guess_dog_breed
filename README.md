@@ -4,7 +4,7 @@ This project was submitted as a part of Udacity Machine Learning Engineer Nanode
 ## Overview
 Given an image of a dog, the algorithm will generate an estimate of the dog's breed. 
 If supplied an image of a human, the code will identify the resembling dog breed.
-To run the code, run the following on th eterminal. 
+To run the code, run the following on the terminal. 
 
 ```
 python dog_app.py --img path_to_img.jpg
