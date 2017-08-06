@@ -21,6 +21,8 @@ He was estimated a mix of canaan dog, Norweisian buhund, Finnish spitz, and akit
 There are more than 300 dog breeds and our model can recognize only 1/3 of them. 
 By acquiring and building dataset in addition to what we already have, we could curve this kind of error
 
+To see more examples, please visit dog_app.html and go to section 7. Who knew all avengers resemble dachshund?
+
 ## Improvements
 
 
